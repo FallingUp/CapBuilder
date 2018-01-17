@@ -1,0 +1,7 @@
+C:\Users\odsts\source\repos\CapBuilder\CapBuilder\bin\Debug\CapBuilder.exe.config
+C:\Users\odsts\source\repos\CapBuilder\CapBuilder\bin\Debug\CapBuilder.exe
+C:\Users\odsts\source\repos\CapBuilder\CapBuilder\bin\Debug\CapBuilder.pdb
+C:\Users\odsts\source\repos\CapBuilder\CapBuilder\obj\Debug\CapBuilder.csprojResolveAssemblyReference.cache
+C:\Users\odsts\source\repos\CapBuilder\CapBuilder\obj\Debug\CapBuilder.csproj.CoreCompileInputs.cache
+C:\Users\odsts\source\repos\CapBuilder\CapBuilder\obj\Debug\CapBuilder.exe
+C:\Users\odsts\source\repos\CapBuilder\CapBuilder\obj\Debug\CapBuilder.pdb
