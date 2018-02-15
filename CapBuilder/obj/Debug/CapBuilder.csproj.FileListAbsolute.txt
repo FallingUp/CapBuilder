@@ -5,3 +5,10 @@ C:\Users\odsts\source\repos\CapBuilder\CapBuilder\obj\Debug\CapBuilder.csprojRes
 C:\Users\odsts\source\repos\CapBuilder\CapBuilder\obj\Debug\CapBuilder.csproj.CoreCompileInputs.cache
 C:\Users\odsts\source\repos\CapBuilder\CapBuilder\obj\Debug\CapBuilder.exe
 C:\Users\odsts\source\repos\CapBuilder\CapBuilder\obj\Debug\CapBuilder.pdb
+C:\Users\User\Documents\GitHub\capbuilder\CapBuilder\bin\Debug\CapBuilder.exe.config
+C:\Users\User\Documents\GitHub\capbuilder\CapBuilder\bin\Debug\CapBuilder.exe
+C:\Users\User\Documents\GitHub\capbuilder\CapBuilder\bin\Debug\CapBuilder.pdb
+C:\Users\User\Documents\GitHub\capbuilder\CapBuilder\obj\Debug\CapBuilder.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\capbuilder\CapBuilder\obj\Debug\CapBuilder.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\capbuilder\CapBuilder\obj\Debug\CapBuilder.exe
+C:\Users\User\Documents\GitHub\capbuilder\CapBuilder\obj\Debug\CapBuilder.pdb
